@@ -1,2 +1,2 @@
 # projet-2B02
-Sur ce repo vous retrouverez tout les fichiers necessaire pour le fonctionement de la prothese
+Sur ce repo, vous retrouverez tous les fichiers nécessaires au fonctionnement de la prothèse.
